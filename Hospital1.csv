@@ -1,0 +1,98 @@
+id,Codebook Variable,Description,Category/Units,Princesa
+1,Patients,Number of patients,Number,4661
+2,DMRGENDR,Sex,Female,2178
+3,DMRGENDR,Sex,Male,2483
+4,DMRGENDR,Sex,0,0
+5,DMRAGEYR,Age,Years,68
+6,DMRAGEYR,Age,(<18),3
+7,DMRAGEYR,Age,(18-29),101
+8,DMRAGEYR,Age,(30-39),187
+9,DMRAGEYR,Age,(40-49),404
+10,DMRAGEYR,Age,(50-59),714
+11,DMRAGEYR,Age,(60-69),870
+12,DMRAGEYR,Age,(70-79),921
+13,DMRAGEYR,Age,(80-89),1004
+14,DMRAGEYR,Age,(>90),457
+15,RFXSM,Smoking,No,4430
+16,RFXSM,Smoking,Yes,231
+17,RFXSM,Smoking,0,0
+18,DMXBMI,BMI,,27.92
+19,RFXOB,Obesity,No,3746
+20,RFXOB,Obesity,Yes,915
+21,RFXOB,Obesity,0,0
+22,CMXDI,Diabetes,No,3486
+23,CMXDI,Diabetes,Yes,892
+24,CMXDI,Diabetes,0,283
+25,CMXHT,Hypertension,No,3916
+26,CMXHT,Hypertension,Yes,462
+27,CMXHT,Hypertension,0,283
+28,CMXCVD,CVD,No,4090
+29,CMXCVD,CVD,Yes,288
+30,CMXCVD,CVD,0,283
+31,CMXCPD,Chronic pulmo0ry disease,No,4287
+32,CMXCPD,Chronic pulmo0ry disease,Yes,374
+33,CMXCPD,Chronic pulmo0ry disease,0,0
+34,CMXCKD,Chronic kidney disease,No,4201
+35,CMXCKD,Chronic kidney disease,Yes,460
+36,CMXCKD,Chronic kidney disease,0,0
+37,CMXCLD,Chronic liver disease,No,4625
+38,CMXCLD,Chronic liver disease,Yes,36
+39,CMXCLD,Chronic liver disease,0,0
+40,RFXONC,Oncology,No,4167
+41,RFXONC,Oncology,Yes,211
+42,RFXONC,Oncology,0,283
+43,RFXHC,Haematological cancer,No,4593
+44,RFXHC,Haematological cancer,Yes,68
+45,RFXHC,Haematological cancer,0,0
+46,RFXIMD,Immunodeficiency,No,4646
+47,RFXIMD,Immunodeficiency,Yes,15
+48,RFXIMD,Immunodeficiency,0,0
+49,RFXHIV,HIV,No,4636
+50,RFXHIV,HIV,Yes,25
+51,RFXHIV,HIV,0,0
+52,CMXPRG,Preg0ncy,0,0
+53,CMXPRG,Preg0ncy,0,0
+54,CMXPRG,Preg0ncy,0,0
+55,DSXOS,Outcome status,Deceased,708
+56,DSXOS,Outcome status,Recovered,3682
+57,DSXOS,Outcome status,Transferred,262
+58,DSXOS,Outcome status,0,9
+59,DATLGT,Length of stay in hospital,Days,12.3
+60,DATLGTI,Length of stay in ICU,0,0
+61,DSXIC,Patient admitted to ICU,No,4252
+62,DSXIC,Patient admitted to ICU,Yes,409
+63,DSXIC,Patient admitted to ICU,0,0
+64,TRXAV,Antiviral or COVID-19 targeted,No,1009
+65,TRXAV,Antiviral or COVID-19 targeted,Yes,3652
+66,TRXAV,Antiviral or COVID-19 targeted,0,0
+67,DATAD,Admision,Jan_2020,0
+68,DATAD,Admision,Feb_2020,13
+69,DATAD,Admision,Mar_2020,857
+70,DATAD,Admision,Apr_2020,520
+71,DATAD,Admision,May_2020,48
+72,DATAD,Admision,Jun_2020,23
+73,DATAD,Admision,Jul_2020,26
+74,DATAD,Admision,Ago_2020,174
+75,DATAD,Admision,Sep_2020,381
+76,DATAD,Admision,Oct_2020,314
+77,DATAD,Admision,Nov_2020,188
+78,DATAD,Admision,Dic_2020,180
+79,DATAD,Admision,Total 2020,2724
+80,DATAD,Admision,Jan_2021,407
+81,DATAD,Admision,Feb_2021,239
+82,DATAD,Admision,Mar_2021,171
+83,DATAD,Admision,Apr_2021,183
+84,DATAD,Admision,May_2021,91
+85,DATAD,Admision,Jun_2021,29
+86,DATAD,Admision,Jul_2021,91
+87,DATAD,Admision,Ago_2021,121
+88,DATAD,Admision,Sep_2021,25
+89,DATAD,Admision,Oct_2021,19
+90,DATAD,Admision,Nov_2021,39
+91,DATAD,Admision,Dic_2021,157
+92,DATAD,Admision,Total 2021,1572
+93,DATAD,Admision,Jan_2022,280
+94,DATAD,Admision,Feb_2022,83
+95,DATAD,Admision,Mar_2022,3
+96,DATAD,Admision,Apr_2022,0
+97,DATAD,Admision,Total 2022,366
